@@ -107,6 +107,8 @@ class Pot:
         self.chips = self.chips + chips
 
 
+"""
+
 while True:
 
     # Greeting message
@@ -156,3 +158,5 @@ print(pot_1.chips)
 
 # print(deck.deck)
 # print(card.name)
+
+"""
